@@ -59,6 +59,7 @@ p {
 }
 .block5, .block6 {
     flex: 1;
+}
 @media screen and (max-width: 768px) {
     .container {
         flex-direction: column;
@@ -82,4 +83,5 @@ p {
     .footer {
         margin-top: 20px;
     }
+
 }
